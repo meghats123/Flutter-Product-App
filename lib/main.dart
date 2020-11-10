@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text("Product App"),
-          backgroundColor: Colors.deepOrange,
+          backgroundColor: Colors.green,
         ),
         body: Container(
           padding: EdgeInsets.all(10.0),
